@@ -18,12 +18,12 @@ Servidor FTP simples em Python
 
 Inicialmente, como root, instale as dependências abaixo:
 
-No Ubuntu 20.04, use:
+No Ubuntu 20.04, utilize o comando abaixo:
 ````
 sudo apt-get install python3-pyftpdlib
 ````
 
-No Ubuntu 14.04, 16.04, and 18.04, use:
+No Ubuntu 14.04, 16.04, and 18.04, utilize o comando abaixo:
 ````
 sudo apt-get install python-pyftpdlib
 ````
